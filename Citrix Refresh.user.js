@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Citrix Refresh
 // @include      https://bolconnect.husky.ca/Citrix/StoreWeb/
-// @version      1.0
+// @include      https://luxconnect.husky.ca/Citrix/StoreWeb/
+// @version      1.1
 // @description  Refreshes every 15 minutes.
 // @author       lukasubo
 // ==/UserScript==
